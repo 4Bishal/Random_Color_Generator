@@ -1,4 +1,4 @@
-# Random_Color_Generator
-It is a basic Ui page that generate random color on clicking the button
+# Css-Only-Project
+It is a basic Ui page that have simple navbar and a photo
 # Author 
 Created By Bishal Bhandari.
